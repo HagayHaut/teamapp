@@ -9,6 +9,7 @@ export class TeamComponent implements OnInit {
   // like React props
   @Input() team: string[] = [];
   @Input() index: number = 0;
+  current_date = new Date();
 
   constructor() {}
 
