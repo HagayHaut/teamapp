@@ -1,0 +1,10 @@
+.team-container {
+    margin-bottom: 1rem;
+}
+
+.team-container ul {
+    border: 0.1rem solid rgb(100,100,100);
+    margin: 0;
+    padding: 0.5rem;
+}
+
